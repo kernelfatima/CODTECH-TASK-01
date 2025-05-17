@@ -1,4 +1,6 @@
 Text Summarization Tool
+
+
 The Text Summarization Tool leverages advanced Natural Language Processing (NLP) techniques to generate concise and meaningful summaries from long textual content. The project uses various summarization algorithms, including Latent Semantic Analysis (LSA), to deliver high-quality summaries
 Features
 Supports multiple summarization methods (e.g., LSA).

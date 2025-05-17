@@ -11,12 +11,9 @@ Customizable summary length.
 
 Supports plain text input.
 
-Installation
-git clone https://github.com/username/text-summarization-tool.git
-cd text-summarization-tool
 
 Install the required libraries:
-pip install -r requirements.txt
+pip install sumy
 
 Example
 input

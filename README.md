@@ -17,13 +17,12 @@ pip install sumy
 
 Example
 
-
 input
-
 
 Natural Language Processing (NLP) is a field of Artificial Intelligence focused on enabling computers to understand, process, and generate human language.
 
 output
+
 NLP enables computers to process and understand human language.
 
 Technologies Used
